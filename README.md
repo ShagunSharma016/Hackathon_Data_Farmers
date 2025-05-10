@@ -43,9 +43,6 @@ Power BI dashboards helped break down thousands of crop records into easy, insig
 - 🗺️ **Best States by Yield**: Punjab, Andhra Pradesh, Tamil Nadu
 - 🌧️ **Rainfall vs Yield**: Clear positive trend
 - 🧪 **Input Correlation**: Fertilizer use shows strong impact
-
-> 📌 *Visuals created from `Hackthon.pbix`*
-
 ---
 
 ## 🤖 Machine Learning: Predicting Crop Yield
