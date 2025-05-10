@@ -146,7 +146,7 @@ input_data = pd.DataFrame({
     'Season': ['Kharif'],
     'State': ['Karnataka']
 })
-
+```
 # 11. Predict yield
 predicted_yield = model.predict(input_data)
 print(f'Predicted Yield: {predicted_yield[0]}')
